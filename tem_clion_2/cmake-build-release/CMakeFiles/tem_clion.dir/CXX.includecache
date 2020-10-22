@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhongjincheng/Desktop/课题/TCAM_multi/TEM/tem_clion_2/SSA.h
+
+/Users/zhongjincheng/Desktop/课题/TCAM_multi/TEM/tem_clion_2/common.h
+cstdint
+-
+
+/Users/zhongjincheng/Desktop/课题/TCAM_multi/TEM/tem_clion_2/main.cpp
+iostream
+-
+algorithm
+-
+sys/time.h
+-
+common.h
+/Users/zhongjincheng/Desktop/课题/TCAM_multi/TEM/tem_clion_2/common.h
+SSA.h
+/Users/zhongjincheng/Desktop/课题/TCAM_multi/TEM/tem_clion_2/SSA.h
+
